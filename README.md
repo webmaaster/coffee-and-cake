@@ -1,2 +1,2 @@
 # coffee-and-cake
-Coding with Vertex Academy! Practice, practice and practice
+It's just for practice and Coding with Vertex Academy! Practice, practice and practice
